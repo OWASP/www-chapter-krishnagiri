@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Dinesh Manoharan](mailto:dinesh.manoharan@owasp.org)
+* [Sathish Ashwin](mailto:sathish.ashwin@owasp.org)
