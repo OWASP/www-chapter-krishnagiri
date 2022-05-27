@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Krishnagiri
-tags: example-tag
+tags: OWASP Krishnagiri
 region: Asia
 meetup-group:
 
