@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP Krishnagiri
 tags: OWASP Krishnagiri
 region: Asia
+country: India 
 meetup-group:
 
 ---
@@ -12,7 +13,7 @@ meetup-group:
 OWASP Krishnagiri was started On May, 2022. We are going to organize Metting, Webminars, Conferences And Workshops On Cyber Security And Releated Stuff. All Events Organized by us are Open To Everyone Who Is Intrested In Cyber Security domain.
 
 ## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
 Chapters are led by local leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button. 
 
